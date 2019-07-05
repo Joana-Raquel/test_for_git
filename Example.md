@@ -5,11 +5,12 @@ Held at the Fawkes Training Room on 5th November from 13:00 to 17:00
 Ash.    
 Mark.
 Joana.
+Lauren.
 
 ## Topics
 Headings   
-Bullet point lists (& nesting). 
-* Point 1
+Directions. 
+* Find the building, go up the stairs
    * nested point 1
 * Point 2.  
 
